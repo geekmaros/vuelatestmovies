@@ -1,6 +1,6 @@
 <template>
 	<footer>
-		<h3> ☕ & code by 😎 <router-link :to="git"> geekmaros </router-link> </h3>
+		<h3> ☕ & code by 😎 <router-link :to="https://github.com/geekmaros"> geekmaros </router-link> </h3>
 			
 	</footer>
 </template>
