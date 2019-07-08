@@ -1,4 +1,4 @@
-# moviedb
+# vuelatestmovies
 
 ## Project setup
 ```
