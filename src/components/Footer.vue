@@ -1,6 +1,7 @@
 <template>
 	<footer>
-		<h3> ☕ & code by 😎 <router-link :to="https://github.com/geekmaros"> geekmaros </router-link> </h3>
+		<h3> ☕ & code by 😎       <a href="https://github.com/geekmaros">geekmaros</a>
+ </h3>
 			
 	</footer>
 </template>
@@ -12,7 +13,6 @@ export default {
 
   data() {
     return {
-      git: 'https://github.com/geekmaros'
     };
   },
   props:{
