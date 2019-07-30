@@ -1,6 +1,6 @@
 <template>
 	<footer>
-		<h3> ☕ & code by 😎       <a href="https://github.com/geekmaros">geekmaros</a>
+		<h3> ☕ & code by 😎       <a v-bind:href="github">geekmaros</a>
  </h3>
 			
 	</footer>
@@ -13,6 +13,7 @@ export default {
 
   data() {
     return {
+    github: "https://github.com/geekmaros
     };
   },
   props:{
